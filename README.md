@@ -1,9 +1,13 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="http://www.linkedin.com/in/dheeraj-mohanbabu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <div id="badges" align="center">
+  <a href="dheerajm@umich.edu">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 - 👋 Hi, I’m @Dheeraj-M1
